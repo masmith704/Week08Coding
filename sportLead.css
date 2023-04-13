@@ -1,0 +1,45 @@
+html {
+    font-family:"Raleway", sans-serif;
+  }
+
+  .search-answer{
+    text-align: center;
+  }
+
+
+#climbing-link:hover{
+  background-color:rgb(254, 20, 125);
+}
+#sport-link:hover{
+  background-color:rgb(254, 20, 125);
+}
+#bouldering-link:hover{
+  background-color: rgb(254, 20, 125);
+}
+#contact-link:hover{
+  background-color: rgb(254, 20, 125);
+}
+
+header{
+  background: linear-gradient(180deg, #84daf5, #89ffff, #affffa, #ffffff);
+} 
+
+  h1 {
+    text-align: center;
+  }
+
+  img{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    border-style: solid;
+    border-color:rgb(254, 20, 125);
+  }
+
+h3{
+  font-size: x-large;
+    background: #84daf5;
+}
+#Lead{
+  text-align: left;
+}
